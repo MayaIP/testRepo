@@ -2,5 +2,5 @@ This is test 1.
 made some changes (make conflict)
 made some changes from github
 
-dev branch has new stuff here  
+dev branch made more new stuff here 
 

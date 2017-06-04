@@ -1,7 +1,6 @@
 This is test 1.
-
-<<<<<<< HEAD
 made some changes (make conflict)
-=======
 made some changes from github
->>>>>>> 69bfb6f950388144692d12aa27934cd9179a3108
+
+dev branch has new stuff here  
+
